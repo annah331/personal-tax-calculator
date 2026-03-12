@@ -25,7 +25,7 @@ This project demonstrates **frontend development skills**, **financial logic**, 
 
 ---
 
-## Screenshots
+## Live link:
 
 ![Tax Calculator Screenshot](./public/screenshot.png)  
 _(Optional: replace with actual screenshot of the app)_
