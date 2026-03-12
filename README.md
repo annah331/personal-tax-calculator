@@ -27,8 +27,7 @@ This project demonstrates **frontend development skills**, **financial logic**, 
 
 ## Live link:
 
-![Tax Calculator Screenshot](./public/screenshot.png)  
-_(Optional: replace with actual screenshot of the app)_
+[https://personal-tax-calculator-alpha.vercel.app/](https://personal-tax-calculator-alpha.vercel.app/)  
 
 ---
 
