@@ -44,3 +44,9 @@ cd personal-tax-calculator
 npm install
 
 npm run dev
+
+---
+
+## 👩🏽‍💻 Author
+Annah Molekoa  
+Frontend Developer
